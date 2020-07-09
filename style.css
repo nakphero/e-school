@@ -114,8 +114,10 @@ a.signup-btn,.signup-btn-2,.signup-btn-3{
     color: #585859;
 }
 .testi-img img{
-    width: 120px;
-    height: 120px;
+    width: 110px;
+    height: 150px;
+    border: 1px solid black;
+    border-radius: 50%;
 }
 .testimonial-title{
     padding-bottom: 40px;
