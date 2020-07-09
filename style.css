@@ -55,12 +55,12 @@ a.signup-btn,.signup-btn-2,.signup-btn-3{
 .second-title span{
     color: #21B573;
 }
-.hero-text p{
+.headbody-text p{
     color: #6C6B6B;
     font-size: 16px;
     line-height: 36px;
 }
-.hero-img img{
+.headbody-img img{
     width: 100%;
 }
 .single-box img{
@@ -120,6 +120,12 @@ a.signup-btn,.signup-btn-2,.signup-btn-3{
 .testimonial-title{
     padding-bottom: 40px;
     color: #000000;
+}
+
+.key-point{
+    text-align: center;
+    margin-left: 7%;
+    font-family: ;
 }
 .section-padding-2{
     padding: 100px 0px;
